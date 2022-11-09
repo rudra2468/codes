@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rudra2468
+- 👋 Hi, I’m @rudra
 - 👀 I’m interested in ....
 - 🌱 I’m currently learning BCA
 - 📫 How to reach me sumobakhriya0692@gmail.com
