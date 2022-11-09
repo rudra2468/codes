@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rudra2468
-- 👀 I’m interested in computer, and animation!
+- 👀 I’m interested in ....
 - 🌱 I’m currently learning BCA
 - 📫 How to reach me sumobakhriya0692@gmail.com
 
