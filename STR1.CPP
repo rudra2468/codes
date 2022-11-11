@@ -7,7 +7,7 @@ void main()
  clrscr();
 
  char s1[]="we can win do this",
-      s2[]="sahi bhi hai";
+      s2[]="ok lets do this";
 
       printf("%d\n",strlen(s1));
       printf("%d\n",strlen(s2));
